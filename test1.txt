@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 06C0-D503
+
+ Directory of C:\Users\NSSUSANTHIPATURI\Desktop\Susanthi\Susanthi\2_Devops_InstallationGuide\MyProject
+
+01/29/2020  02:02 AM    <DIR>          .
+01/29/2020  02:02 AM    <DIR>          ..
+01/29/2020  02:02 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  420,713,172,992 bytes free
+
+added---sush
